@@ -1,1 +1,2 @@
 # Intelligent-System-for-Crisis-Analysis-and-Resource-Allocation
+Developed an end-to-end intelligent system that analyzes real-time aerial imagery to detect disaster zones and assess their severity, then generates prioritized recommendations for distributing critical resources (medical supplies, food, shelter) based on predicted needs and available inventories. Enabled emergency response teams to make rapid, data-driven decisions.
